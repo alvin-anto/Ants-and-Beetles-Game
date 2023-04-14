@@ -17,6 +17,7 @@ This project simulates a game board containing two types of creatures: ants and 
 - Ant.cpp: The implementation file for the Ant class, containing the move and breed functions.
 - Beetle.h: The header file for the Beetle class, which inherits from the Creature class.
 - Beetle.cpp: The implementation file for the Beetle class, containing the move and breed functions.
+- main.cpp: The main class that creates the gameboard and plays the game
 
 **Usage**
 
