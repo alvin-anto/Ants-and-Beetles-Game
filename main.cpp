@@ -36,7 +36,7 @@ int main()
     string fileName;
     cin >> fileName;
     ifstream input;
-    input.open("/Users/alvinanto/Desktop/world.txt");
+    input.open("world.txt");
     
     //taking the character representation for ant and beetle and the number of turns from the user and
     //initialzing the corresponding variables with those values.
